@@ -1,4 +1,3 @@
-
 package quantization;
 
 import java.io.BufferedWriter;
